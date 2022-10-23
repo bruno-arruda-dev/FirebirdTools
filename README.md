@@ -11,3 +11,9 @@
    Meu aplicativo não necessita nenhuma configuração, basta descompactar e executar o .bat como administrador.
    
    Espero que seja útil :)
+
+<div align=center>
+<img src='https://user-images.githubusercontent.com/86083291/197367052-45e00f34-dc10-43fc-aec6-b4c6832c1f10.png'></img>
+<img src='https://user-images.githubusercontent.com/86083291/197367053-38c58273-b20c-49bb-b9a2-c4012232d486.png'></img>
+<img src='https://user-images.githubusercontent.com/86083291/197367054-0cb938b1-d158-4068-9c58-b71e7f4abd5d.png'></img>
+</div>
